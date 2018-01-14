@@ -1,6 +1,6 @@
 # 去玩儿
-a test repository
+A test repository
 
-ahoy！
+Ahoy！
 
-i'm new here.试一下github怎么用
+I'm new here.试一下github怎么用
